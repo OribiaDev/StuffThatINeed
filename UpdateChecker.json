@@ -1,6 +1,8 @@
 { 
         "homepage": "https://www.curseforge.com/minecraft/mc-mods/trinityweapons", 
         "promos": { 
+                "1.16.5-latest": "1.6.0",
+                "1.16.5-recommended": "1.6.0",
                 "1.16.2-latest": "1.5.0",
                 "1.16.2-recommended": "1.5.0",
                 "1.15.2-latest": "1.4.1",
@@ -10,6 +12,9 @@
                 "1.13.2-latest": "1.1.0",
                 "1.13.2-recommended": "1.1.0"
         }, 
+        "1.16.5": {
+                "1.6.0": "Updated to 1.16.5, Added Netherite weapons, Deleted crafting items, Added more language support, Fixed Bugs"
+        },     
         "1.16.2": {
                 "1.5.0": "Updated to 1.16.2!"
         }, 
